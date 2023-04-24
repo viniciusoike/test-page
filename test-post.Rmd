@@ -1,8 +1,5 @@
 ---
 title: "testing a page"
-author: "Vinicius Oike"
-date: "2023-04-24"
-output: html_document
 ---
 
 ```{r setup, include=FALSE}

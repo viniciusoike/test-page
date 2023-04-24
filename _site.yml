@@ -1,0 +1,7 @@
+name: "cars"
+output_dir: "docs"
+navbar:
+  title: "Test Github Pages"
+output:
+  html_document:
+    theme: cosmo
